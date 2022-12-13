@@ -1,6 +1,6 @@
 package main;
 import java.io.IOException;
-import java.util.Scanner;
+import java.util.Scanner;  
 
 /**
  * @authors António Kudiezo, Rosário de Cristo & Marcos Danilson
@@ -161,6 +161,6 @@ public class CacaPalavras {
         System.out.println(">>>MENU CAÇA PALAVRAS<<<");
         System.out.println("|1| - ENTRADA MANUAL");
         System.out.println("|2| - ENTRADA PELO FICHEIRO (OS DASOS DEVEM SER INTRODUZIDOS NO FICHEIRO \"entrada.txt\" SEGUINDO A REGRA DE ENTRADA)");
-        System.out.println("|0| - TERMINAR SESSÃO");
+        System.out.println("|0| - TERMINAR SESSÃO ");
     }
 }
